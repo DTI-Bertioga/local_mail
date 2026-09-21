@@ -38,7 +38,7 @@ O plugin original oferece uma interface de e-mail web moderna para comunicação
 ## 🚀 Métodos de Instalação
 
 ### Opção 1: Instalação via Interface Gráfica do Moodle (GUI / Pacote .ZIP)
-1. Faça o download deste repositório compactado em formato **.ZIP** (a pasta interna deve se chamar `mail`).
+1. Executar "git clone https://github.com/DTI-Bertioga/local_mail.git mail" e compactar o diretório criado em um arquivo ZIP (mail.zip por exemplo).
 2. Acesse o seu Moodle com uma conta de Administrador.
 3. Navegue até: **Administração do site > Plugins > Instalar plugins** (`/admin/tool/installplugin/index.php`).
 4. Arraste e solte o arquivo **`.zip`** no campo **Pacote Zip**.
