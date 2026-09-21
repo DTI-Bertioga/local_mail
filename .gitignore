@@ -1,0 +1,12 @@
+/.phpunit.cache
+/coverage
+/phpunit.xml
+/svelte/build/source-map.html
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.27012026
+.DS_Store
