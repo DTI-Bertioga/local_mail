@@ -1,5 +1,7 @@
 # Local Mail Plugin for Moodle (Versão Customizada / Modificada)
 
+[English Version](README_EN.md)
+
 Esta é uma **versão modificada e aprimorada** do plugin oficial [Local Mail para Moodle](https://moodle.org/plugins/local_mail). 
 
 O plugin original oferece uma interface de e-mail web moderna para comunicação entre participantes de um mesmo curso. Esta versão estende o projeto original ao introduzir **mensageria global em todo o site (nível de sistema)** para todos os usuários autenticados, além de incluir correções críticas de banco de dados, busca refinada de usuários e melhorias de resiliência na interface com gerenciador de anexos.
